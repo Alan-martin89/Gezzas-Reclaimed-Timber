@@ -28,8 +28,8 @@
         
     }
     img{
-        width: 70vh;
-        height: 50vh;
+        width: 40vh;
+        height: 20vh;
         border-radius: 20px;
         border-color: #a39171;
         border-style: solid;
@@ -71,13 +71,13 @@
     }
 
     section{
-        font-size: smaller;
+        font-size: 10px;
         border-style: solid;
         border-color: #a39171;
         color: #6d4c3d;
         background-color: white;
         font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-        padding: 0.5rem;
+        padding: 1rem;
         margin: 1rem;
         border-radius: 8px;
     }
