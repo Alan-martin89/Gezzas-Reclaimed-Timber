@@ -110,6 +110,11 @@
     button[type="submit"]:hover{
         background-color: rgb(214, 226, 236);
     }
+    
+    figure{
+        display:grid;
+        justify-content:center;
+    }
  }
 
 
