@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    background-color: #463F3A;
+}
+.font{
+    color: #F4F3EE;
+}
+.divcolor{
+    background-color: #8A817C;
+    margin-left: 1vh;
+    margin-right: 1vh;
+}
+hr{
+    margin: 3vw;
+}
+.borderbottom{
+    border-bottom: solid black
+}
+.radius{
+    border-radius: 50%;
+    border: solid black;
+}
+.marg{
+    margin-top: 1vh;
+}
+.tc{
+    text-align: center;
+}
+.input{
+    display: inline-flex;
+    flex-direction: column;
+    padding: 1vh;
+}
+.margtop{
+    margin-top: 4vw;
+}
+.gallbgcolor{
+    background-color: #BCB8B1;
+}
+.conbgcol{
+    background-color: #E0AFA0;
+}
+
+label{
+    margin: auto;
+}
+.pad{
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(100px, 1fr)); 
+    grid-template-rows: repeat(2, minmax(100px, 1fr));
+}
