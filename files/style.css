@@ -53,3 +53,9 @@ label{
     grid-template-columns: repeat(2, minmax(100px, 1fr)); 
     grid-template-rows: repeat(2, minmax(100px, 1fr));
 }
+.iframe{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10% 0 10% 0;
+}
