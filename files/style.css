@@ -59,3 +59,27 @@ label{
     align-items: center;
     margin: 10% 0 10% 0;
 }
+.shop{
+    font-weight: 500;
+    background-color: #463F3A;
+    display: inline-block;
+    padding: 2%;
+}
+
+.shop:hover{
+    color: #69574e;
+    border-radius: 1em;
+}
+
+.shoplabel{
+    font-weight: 700;
+    font-size: 2rem;
+}
+.buybutton{
+    background-color: white;
+}
+
+.returnlist{
+    list-style-type: none;
+}
+
